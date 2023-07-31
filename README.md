@@ -1,7 +1,7 @@
 
 # Prueba Técnica - Conrado Els
 
-![](https://d2r9epyceweg5n.cloudfront.net/apps/767-es_AR-small-logoduxazul.png](https://res.cloudinary.com/dtvlycezq/image/upload/v1690815895/samples/767-es_AR-small-logoduxazul_pyfwde.png)
+![]([https://res.cloudinary.com/dtvlycezq/image/upload/v1690813648/samples/Captura_de_pantalla_2023-07-31_112617_x07pcm.png](https://res.cloudinary.com/dtvlycezq/image/upload/v1690815895/samples/767-es_AR-small-logoduxazul_pyfwde.png))
 
 
 ## Consultas SQL
