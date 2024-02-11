@@ -1,7 +1,7 @@
 
 # Tennis Simulator - Conrado Els
 
-![](https://www.clipartmax.com/png/middle/30-305859_pelota-tenis-png.png)
+![](https://cdn5.dibujos.net/dibujos/pintados/201041/41816efc601e86a3aa4004b877e5c9dc.png)
 
 
 ## Consultas SQL
