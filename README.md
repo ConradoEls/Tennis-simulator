@@ -1,7 +1,7 @@
 
-# Prueba Técnica - Conrado Els
+# Tennis Simulator - Conrado Els
 
-![](https://res.cloudinary.com/dtvlycezq/image/upload/v1690815895/samples/767-es_AR-small-logoduxazul_pyfwde.png)
+![](https://www.clipartmax.com/png/middle/30-305859_pelota-tenis-png.png)
 
 
 ## Consultas SQL
@@ -19,9 +19,9 @@
 
 ### Solución
 
-`<link>` : <https://github.com/ConradoEls/dux-prueba/tree/main/SQL>
+`<link>` : <https://github.com/ConradoEls/tennis-simulator/tree/main/SQL>
 
-- Encontrarán el [DER](https://github.com/ConradoEls/dux-prueba/blob/main/SQL/DER.mwb) de la DB, las [queries](https://github.com/ConradoEls/dux-prueba/blob/main/SQL/Queries.sql) que se podrán ejecutar facilmente descargando una [DB](https://github.com/ConradoEls/dux-prueba/blob/main/SQL/DB.sql) que realicé para pruebas funcionales.
+- Encontrarán el [DER](https://github.com/ConradoEls/tennis-simulator/blob/main/SQL/DER.mwb) de la DB, las [queries](https://github.com/ConradoEls/tennis-simulator/blob/main/SQL/Queries.sql) que se podrán ejecutar facilmente descargando una [DB](https://github.com/ConradoEls/tennis-simulator/blob/main/SQL/DB.sql) que realicé para pruebas funcionales.
 
 ----
 
@@ -51,11 +51,11 @@ Será necesario contar con al menos tres test unitarios que verifiquen el correc
 
 ### Solución
 
-`<link>` : <https://github.com/ConradoEls/dux-prueba/tree/main/dux-tennis>
+`<link>` : <https://github.com/ConradoEls/tennis-simulator/tree/main/dux-tennis>
 
-- Encontrarán el achivo [POM](https://github.com/ConradoEls/dux-prueba/blob/main/dux-tennis/pom.xml) del programa para abrirlo desde el IDE y descagar las dependencias necesarias.
+- Encontrarán el achivo [POM](https://github.com/ConradoEls/tennis-simulator/blob/main/dux-tennis/pom.xml) del programa para abrirlo desde el IDE y descagar las dependencias necesarias.
 - El programa consta de una simulación de un partido de tenis donde en base a una probabilidad, se ejecuta el algoritmo que devolverá un ganador cuyo caso la probabilidad lo favorezca.
 - La simulación implementa el patrón DAO que si bien, no existe una capa de persistencia de datos, aporta la funcionalidad de abstraer y encapsular la logica del programa.
-- En la carpeta [test](https://github.com/ConradoEls/dux-prueba/blob/main/dux-tennis/src/test/java/com/example/duxtennis/DuxTennisApplicationTests.java) encontrarán los test unitarios realizados con JUnit para verificar el correcto funcionamiento del código.
+- En la carpeta [test](https://github.com/ConradoEls/tennis-simulator/blob/main/dux-tennis/src/test/java/com/example/duxtennis/DuxTennisApplicationTests.java) encontrarán los test unitarios realizados con JUnit para verificar el correcto funcionamiento del código.
 
 ----
